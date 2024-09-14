@@ -1,0 +1,14 @@
+[
+    {
+      "group_id": "sistemas26",
+      "group_status": 1
+    },
+    {
+      "group_id": "monitoreo",
+      "group_status": 1
+    },
+    {
+      "group_id": "administracion",
+      "group_status": 0
+    }
+  ]

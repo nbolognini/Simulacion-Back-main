@@ -1,0 +1,80 @@
+[
+    {
+      "fk_canal_id": "canal26",
+      "signal_type": "Youtube",
+      "fk_group_id": "sistemas26",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "canal26",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "canal26",
+      "signal_type": "FifaTv",
+      "fk_group_id": "sistemas26",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "telemax",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "musictop",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "tierramiatv",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "latinatv",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "tlcpreview",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "tlc4k",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "musictop",
+      "signal_type": "HLS",
+      "fk_group_id": "monitoreo",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "tierramiatv",
+      "signal_type": "HLS",
+      "fk_group_id": "monitoreo",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "latinatv",
+      "signal_type": "HLS",
+      "fk_group_id": "monitoreo",
+      "access_status": 1
+    },
+    {
+      "fk_canal_id": "tlc4k",
+      "signal_type": "HLS",
+      "fk_group_id": "monitoreo",
+      "access_status": 1
+    }
+  ]

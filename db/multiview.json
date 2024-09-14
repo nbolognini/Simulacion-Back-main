@@ -1,0 +1,93 @@
+[
+    {
+      "fk_channel_id": "canal26",
+      "signal_type": "Youtube",
+      "fk_group_id": "sistemas26",
+      "multiview_order": 1,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "canal26",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "multiview_order": 2,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "canal26",
+      "signal_type": "FifaTv",
+      "fk_group_id": "sistemas26",
+      "multiview_order": 3,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "telemax",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "multiview_order": 4,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "musictop",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "multiview_order": 5,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "tierramiatv",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "multiview_order": 6,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "latinatv",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "multiview_order": 7,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "tlcpreview",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "multiview_order": 8,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "tlc4k",
+      "signal_type": "HLS",
+      "fk_group_id": "sistemas26",
+      "multiview_order": 9,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "musictop",
+      "signal_type": "HLS",
+      "fk_group_id": "monitoreo",
+      "multiview_order": 5,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "tierramiatv",
+      "signal_type": "HLS",
+      "fk_group_id": "monitoreo",
+      "multiview_order": 6,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "latinatv",
+      "signal_type": "HLS",
+      "fk_group_id": "monitoreo",
+      "multiview_order": 7,
+      "multiview_status": 1
+    },
+    {
+      "fk_channel_id": "tlc4k",
+      "signal_type": "HLS",
+      "fk_group_id": "monitoreo",
+      "multiview_order": 9,
+      "multiview_status": 1
+    }
+  ]

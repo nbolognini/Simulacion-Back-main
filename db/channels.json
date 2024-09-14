@@ -1,0 +1,44 @@
+[
+    {
+      "channel_id": "canal26",
+      "channel_name": "Canal 26",
+      "channel_img": "./src/canal26.jpg",
+      "channel_status": 1
+    },
+    {
+      "channel_id": "telemax",
+      "channel_name": "Telemax",
+      "channel_img": "./src/telemax.jpg",
+      "channel_status": 1
+    },
+    {
+      "channel_id": "musictop",
+      "channel_name": "MusicTop",
+      "channel_img": "./src/musictop.jpg",
+      "channel_status": 1
+    },
+    {
+      "channel_id": "tierramiatv",
+      "channel_name": "TierraMia Tv",
+      "channel_img": "./src/tierramiatv.jpg",
+      "channel_status": 1
+    },
+    {
+      "channel_id": "latinatv",
+      "channel_name": "Latina Tv",
+      "channel_img": "./src/latinatv.jpg",
+      "channel_status": 1
+    },
+    {
+      "channel_id": "tlcpreview",
+      "channel_name": "TLC Preview",
+      "channel_img": "./src/tlcpreview.jpg",
+      "channel_status": 1
+    },
+    {
+      "channel_id": "tlc4k",
+      "channel_name": "TLC 4k",
+      "channel_img": "./src/tlc4k.jpg",
+      "channel_status": 1
+    }
+  ]

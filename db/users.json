@@ -1,0 +1,37 @@
+[
+    {
+      "user_name_id": "janibarro",
+      "usuario_password": "abcd1234",
+      "usuario_role": "usuario",
+      "usuario_status": 1,
+      "fk_group_id": "sistemas26"
+    },
+    {
+      "user_name_id": "naldao",
+      "usuario_password": "abcd1234",
+      "usuario_role": "usuario",
+      "usuario_status": 1,
+      "fk_group_id": "sistemas26"
+    },
+    {
+      "user_name_id": "nbolognini",
+      "usuario_password": "abcd1234",
+      "usuario_role": "usuario",
+      "usuario_status": 1,
+      "fk_group_id": "sistemas26"
+    },
+    {
+      "user_name_id": "monitor",
+      "usuario_password": "abcd1234",
+      "usuario_role": "usuario",
+      "usuario_status": 1,
+      "fk_group_id": "monitoreo"
+    },
+    {
+      "user_name_id": "admin",
+      "usuario_password": "admin",
+      "usuario_role": "administrador",
+      "usuario_status": 1,
+      "fk_group_id": "administracion"
+    }
+  ]

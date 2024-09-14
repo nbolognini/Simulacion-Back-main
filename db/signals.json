@@ -1,0 +1,56 @@
+[
+    {
+      "fk_channel_id": "canal26",
+      "signal_type": "Youtube",
+      "signal_url": "https://www.youtube.com/embed/MS0QdZ5zvn8?si=LYmXJPUlw8iiS6gi",
+      "signal_status": 1
+    },
+    {
+      "fk_channel_id": "canal26",
+      "signal_type": "HLS",
+      "signal_url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "signal_status": 1
+    },
+    {
+      "fk_channel_id": "canal26",
+      "signal_type": "FifaTv",
+      "signal_url": "https://stream-gtlc.telecentro.net.ar/hls/fifatv/main.m3u8",
+      "signal_status": 1
+    },
+    {
+      "fk_channel_id": "telemax",
+      "signal_type": "HLS",
+      "signal_url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+      "signal_status": 1
+    },
+    {
+      "fk_channel_id": "musictop",
+      "signal_type": "HLS",
+      "signal_url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8",
+      "signal_status": 1
+    },
+    {
+      "fk_channel_id": "tierramiatv",
+      "signal_type": "HLS",
+      "signal_url": "https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8",
+      "signal_status": 1
+    },
+    {
+      "fk_channel_id": "latinatv",
+      "signal_type": "HLS",
+      "signal_url": "https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8",
+      "signal_status": 1
+    },
+    {
+      "fk_channel_id": "tlcpreview",
+      "signal_type": "HLS",
+      "signal_url": "https://stream-gtlc.telecentro.net.ar/hls/telecentropreviewhls/main.m3u8",
+      "signal_status": 1
+    },
+    {
+      "fk_channel_id": "tlc4k",
+      "signal_type": "HLS",
+      "signal_url": "https://stream-gtlc.telecentro.net.ar/hls/telecentro4k/main.m3u8",
+      "signal_status": 1
+    }
+  ]
